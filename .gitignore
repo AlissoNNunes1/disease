@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 dataset/
-
+plant_disease_classifier.h5
 
 # Distribution / packaging
 .Python
